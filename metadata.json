@@ -1,0 +1,6 @@
+{
+  "name": "Excel Data Reconciler",
+  "description": "Automated offline Excel data reconciliation application comparing raw workbooks against source files with intelligent close matching, color highlights, and summary reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
